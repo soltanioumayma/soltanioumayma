@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @soltanioumayma, a passionate Embedded Systems and Mobile Developer currently in my graduation year at ISET Charguiya.  
+- 👀 I’m interested in IoT, robotics, AI, and building innovative solutions to solve real-world problems.  
+- 🌱 I’m currently learning advanced concepts in Embedded Systems, CubeSat development, and sharpening my skills in Scrum and AI.  
+- 💞️ I’m looking to collaborate on IoT projects, robotics systems, and mobile apps that integrate seamlessly with hardware solutions.  
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/soltanioumayma) | Email: soltanioumayma2003.com  
+- ⚡ Fun fact: I love exploring new languages and cultures
