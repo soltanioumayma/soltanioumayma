@@ -19,15 +19,6 @@ The program helped me develop my **leadership, communication, problem-solving, a
 
 ---
 
-
-### Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soltanioumayma&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ### Let's Connect
 
 **LinkedIn:** [www.linkedin.com/in/soltanioumayma](http://www.linkedin.com/in/soltanioumayma)
