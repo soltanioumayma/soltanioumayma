@@ -6,10 +6,6 @@ Welcome to my GitHub! I'm a **Software Engineering student** passionate about bu
 
 I enjoy turning ideas into working projects, learning through hands-on development, and continuously improving my technical and problem-solving skills.
 
-**Software Engineering Student**
-**Aspire Leaders Program Graduate**
-Interested in **AI, Software Engineering & Innovation**
-Tunisian student passionate about international opportunities and collaboration
 
 ---
 
@@ -23,14 +19,6 @@ The program helped me develop my **leadership, communication, problem-solving, a
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soltanioumayma&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soltanioumayma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ### Profile Views
 
