@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Oumayma Soltani
+#  Heyyyyyy, I'm Oumayma Soltani
 
 ### `Software Engineering Student` · `AI & Technology Enthusiast` · `Aspire Leaders Program Graduate`
 
